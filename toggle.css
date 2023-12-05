@@ -12,6 +12,7 @@
         width: 90%;
         max-width: 500px;
         border-radius: 5px;
+        border-radius: 12px;
         padding: 10px 20px;
         margin: 300px auto;
         display: flex;
